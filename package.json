@@ -2,6 +2,10 @@
   "name": "pundit-example-app",
   "type": "module",
   "version": "0.0.1",
+  "engines": {
+    "node": ">=22.12"
+  },
+  "packageManager": "pnpm@9.15.0",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
@@ -34,6 +38,7 @@
     "lint-staged": "^15.3.0",
     "prettier": "3.4.2",
     "prettier-plugin-astro": "^0.14.1",
+    "typescript": "^5.7.2",
     "typescript-eslint": "^8.19.0",
     "vitest": "2.1.6"
   },
