@@ -22,7 +22,7 @@
     "commitlint": "commitlint --edit"
   },
   "dependencies": {
-    "astro": "^5.1.9"
+    "astro": "^5.2.3"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.6.1",
